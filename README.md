@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Kafiya👋
+
+🎓 I'm a student at SMK Wikrama Bogor, majoring in Software Engineering  
+📚 Currently working on: A Digital Library Management System
+🚀 Check out my latest project below!
 
 <!--
 **KafiyaNuril/KafiyaNuril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
