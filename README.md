@@ -1,6 +1,6 @@
 ## Hi, I'm Kafiya👋
 
-🎓 I'm a student at SMK Wikrama Bogor, majoring in Software Engineering  
+🎓 I'm a student at SMK Wikrama Bogor, majoring in Software and Game Development
 📚 Currently working on: A Digital Library Management System
 🚀 Check out my latest project below!
 
